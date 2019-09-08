@@ -9,10 +9,6 @@ def find_element_index(array, value_to_find)
       
       puts i
       
-    elsif array[i] != value_to_find
-      
-      puts nil 
-      
     end
     
    i += 1
